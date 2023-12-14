@@ -1,0 +1,15 @@
+.list{
+   margin: 1rem;
+   display: block;
+   align-items: center;
+   justify-content: center;
+}
+.card{
+width: 100%;
+}
+.but{
+   display: block;
+   align-items: center;
+   justify-content: center;
+   margin: 1rem;
+}

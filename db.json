@@ -1,0 +1,52 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Task 1",
+      "description": "Descr Task 1",
+      "status": "Completed"
+    },
+    {
+      "id": 2,
+      "title": "Task 2",
+      "description": "Descr Task 2",
+      "status": "In progress"
+    },
+    {
+      "id": 3,
+      "title": "Task 3",
+      "description": "Descr Task 3",
+      "status": "Completed"
+    },
+    {
+      "id": 4,
+      "title": "Task 4",
+      "description": "Descr Task 4",
+      "status": "In progress"
+    },
+    {
+      "id": 5,
+      "title": "Task 5",
+      "description": "Descr Task 5",
+      "status": "Completed"
+    },
+    {
+      "id": 1702538494738,
+      "title": "dfg",
+      "description": "sfsdfs",
+      "status": "Pending"
+    },
+    {
+      "id": 1702538543943,
+      "title": "Task 77",
+      "description": "desccrlugthwe;ifgndsgfs",
+      "status": "In progress"
+    },
+    {
+      "id": 1702539551083,
+      "title": "egdg",
+      "description": "rhdrd",
+      "status": "Completed"
+    }
+  ]
+}
